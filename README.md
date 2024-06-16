@@ -1,6 +1,6 @@
 # Image-Denoising
 
-An Invertible Rescaling Net (IRN) is trained to perform single image denoiseing. 
+An Invertible Rescaling Networks (IRN) is trained to perform single image denoiseing. 
 
 | Noisy Image | Denoised Output | 
 | :---: | :---: | 
