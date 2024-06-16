@@ -2,7 +2,7 @@
 
 An Invertible Rescaling Net (IRN) is trained to perform single image denoiseing. 
 
-| Noisy Image | DeNoised Output | 
+| Noisy Image | Denoised Output | 
 | :---: | :---: | 
 |<img src="assets/monarch_GT.png"/> | <img src="assets/monarch.png"/> |
 
